@@ -2,4 +2,5 @@
 
 int main(){
     char string[1000];
+    
 }

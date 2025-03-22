@@ -1,7 +1,6 @@
 #include <stdlib.h>
 
 int main(){
-    char *string;
-
-    string = (char *)malloc(sizeof(char) * 1000);
+    char string[1000];
+    
 }
